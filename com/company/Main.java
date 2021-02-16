@@ -22,7 +22,7 @@ public class Main {
 
 
 
-        System.out.println("1. Locomotive");
+        System.out.println("1. Locomotiveeeee");
         System.out.println("2. Train");
         System.out.print("Enter option (1-2): ");
         int option = scanner.nextInt();
