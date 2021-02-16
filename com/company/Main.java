@@ -18,6 +18,10 @@ public class Main {
         MyTrainApplication appTrain = new MyTrainApplication(repoTrain, repoLokomotive);
         MyLokomotiveApplication appLokomotive = new MyLokomotiveApplication(repoTrain, repoLokomotive);
         System.out.println("Hello");
+
+
+
+
         System.out.println("1. Locomotive");
         System.out.println("2. Train");
         System.out.print("Enter option (1-2): ");
