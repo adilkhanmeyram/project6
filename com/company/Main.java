@@ -17,7 +17,7 @@ public class Main {
         ILokoRepository repoLokomotive = new LokoRepo(db);
         MyTrainApplication appTrain = new MyTrainApplication(repoTrain, repoLokomotive);
         MyLokomotiveApplication appLokomotive = new MyLokomotiveApplication(repoTrain, repoLokomotive);
-        System.out.println("Hello");
+        System.out.println("Hello234234");
 
 
 
